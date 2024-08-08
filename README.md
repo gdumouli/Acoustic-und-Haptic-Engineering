@@ -1,4 +1,4 @@
-# Projects of the Chair of Acoustic und Haptic Engineering, TU Dresden
+# Acoustic und Haptic Engineering's Projects
 
 All the files worked on during my internship at the Chair of Acoustic und Haptic Engineering in TU Dresden. The main projects are:
 - Wireless Haptic Glove's implementation in PureData
